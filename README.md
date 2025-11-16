@@ -1,13 +1,13 @@
 # Projeto_Logistica_TeoriadeGrafos
-#Projeto de Otimização Logística com Teoria de Grafos
+# Projeto de Otimização Logística com Teoria de Grafos
 
-##Visão Geral do Projeto
+## Visão Geral do Projeto
 
 Este projeto simula e resolve um desafio clássico de logística: otimizar as rotas de entrega de mercadorias entre um armazém central e seus clientes. Utilizando os princípios da Teoria de Grafos, modelamos a rede de transporte para calcular o caminho de menor custo (tempo de viagem) e analisar a resiliência da rede contra falhas.
 
 O código é construído em Python, priorizando performance, modularidade e código limpo, seguindo uma analogia com a estruturação de um sistema profissional de gestão logística, como o SAP R/3 (foco em Otimização e Gestão de Exceções).
 
-##Conceitos de Engenharia de Software Aplicados
+## Conceitos de Engenharia de Software Aplicados
 
 1. Modularidade e Abstração (Analogia SAP R/3)
 
@@ -61,7 +61,7 @@ Arestas Ponderadas (Arcos): Representam as estradas, com o peso definido pelo cu
 
 Grafo Direcionado (DiGraph): Utilizado para refletir que o custo de ida ($A \to B$) pode ser diferente do custo de volta ($B \to A$).
 
-##Cenário de Análise (Alpha até Epsilon)
+## Cenário de Análise (Alpha até Epsilon)
 
 Análise
 
@@ -95,7 +95,7 @@ Impacto: O custo da entrega aumentou em 25 minutos (de 60 para 85 minutos).
 
 Conclusão: A conectividade da rede garante a continuidade da entrega, provando a resiliência do projeto logístico.
 
-#Como Rodar o Projeto (Google Colab / Ambiente Local)
+# Como Rodar o Projeto (Google Colab / Ambiente Local)
 
 Para executar o código e replicar a análise, siga as instruções abaixo:
 
