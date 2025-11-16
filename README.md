@@ -41,7 +41,7 @@ Gestão de Exceções e Contingência.
 
 A utilização da biblioteca NetworkX para manipulação de grafos garante que os cálculos (como o algoritmo de Dijkstra) sejam realizados de forma performática e eficiente, ideal para redes logísticas de grande escala.
 
-##Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 
 Linguagem: Python
 
@@ -51,7 +51,7 @@ Visualização de Dados: Matplotlib (Geração de esquemas claros do grafo e rot
 
 Técnica: Teoria de Grafos Direcionados e Ponderados (Caminho Mínimo)
 
-##Metodologia e Modelagem
+## Metodologia e Modelagem
 
 O problema logístico foi traduzido para o universo dos grafos da seguinte forma:
 
