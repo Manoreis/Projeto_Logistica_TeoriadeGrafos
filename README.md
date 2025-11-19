@@ -11,7 +11,7 @@ O código é construído em Python, priorizando performance, modularidade e cód
 
 1. Modularidade e Abstração (Analogia SAP R/3)
 
-O projeto é estruturado em módulos lógicos, assim como o sistema SAP R/3 (foco em SD/MM - Sales and Distribution/Materials Management):
+O projeto é estruturado em módulos lógicos, assim como o sistema SAP (foco em SD/MM - Sales and Distribution/Materials Management):
 
 Módulo do Projeto
 
