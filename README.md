@@ -5,7 +5,7 @@
 
 Este projeto simula e resolve um desafio clássico de logística: otimizar as rotas de entrega de mercadorias entre um armazém central e seus clientes. Utilizando os princípios da Teoria de Grafos, modelamos a rede de transporte para calcular o caminho de menor custo (tempo de viagem) e analisar a resiliência da rede contra falhas.
 
-O código é construído em Python, priorizando performance, modularidade e código limpo, seguindo uma analogia com a estruturação de um sistema profissional de gestão logística, como o SAP R/3 (foco em Otimização e Gestão de Exceções).
+O código é construído em Python, priorizando performance, modularidade e código limpo, seguindo uma analogia com a estruturação de um sistema profissional de gestão logística, como o SAP (foco em Otimização e Gestão de Exceções).
 
 ## Conceitos de Engenharia de Software Aplicados
 
